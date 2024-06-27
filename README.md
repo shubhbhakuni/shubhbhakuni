@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhbhakuni](https://github.com/shubhbhakuni)
 
-- 💬 Ask me about **C++ , C , Python**
+- 💬 Ask me about **C , C++ , Python**
 
 - 📫 How to reach me **shubhbhakuni@gmail.com**
 
