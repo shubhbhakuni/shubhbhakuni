@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C , C++ , Python**
 
-- 📫 How to reach me **shubhbhakuni@gmail.com**
+- 📫 How to reach me **(https://shubhbhakuni.netlify.app/)**
 
 - ⚡ Fun fact **I am a master of efficiency, achieving more with less effort**
 
