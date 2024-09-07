@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhbhakuni](https://github.com/shubhbhakuni)
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1eLrfZ1AY2ZVMAJz7zGDSgvZ0k-boe6G9/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/16gQi5tvomz7Bk_7zPvEp5XLKYlzKO0Qd/view?usp=drive_link
 
 - 💬 Ask me about **C , C++ , Python**
 
-- 📫 How to reach me **(https://shubhbhakuni.netlify.app/)**
+- 📫 How to reach me **https://shubhbhakuni.netlify.app/**
 
 - ⚡ Fun fact **I am a master of efficiency, achieving more with less effort**
 
